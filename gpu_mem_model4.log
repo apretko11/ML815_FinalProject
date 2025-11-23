@@ -1,0 +1,240 @@
+===== Sun Nov 23 09:25:31 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 11055104
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 11055104
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 11055104
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 11055104
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:30:31 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 6790778880
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 6795976704
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 6824337408
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 6723620864
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:35:31 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 6790778880
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 6795976704
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 6824337408
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 6723620864
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:39:35 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 6790774784
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 6795972608
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 6824333312
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 6723616768
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:39:39 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 6790680576
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 6795878400
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 6824239104
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 6723522560
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:45:32 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 11051008
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 11051008
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 11051008
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 11063296
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:49:04 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 11051008
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 11051008
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 11051008
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 11063296
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:54:04 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 44694876160
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 45179359232
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 46330675200
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 46198546432
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 09:59:04 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 48680116224
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48403357696
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 48386531328
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 46199152640
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 10:04:05 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 48680550400
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48407879680
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 48387055616
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 46199652352
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 10:09:05 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 48681091072
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48408420352
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 48387579904
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 46200111104
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 10:14:06 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 48681672704
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48408891392
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 48388014080
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 50537525248
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 10:19:06 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 48682065920
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48411123712
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 48388341760
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 50537914368
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 10:24:06 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 48682315776
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48411459584
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 48388743168
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 50538295296
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+
+===== Sun Nov 23 10:29:07 UTC 2025 =====
+
+
+============================ ROCm System Management Interface ============================
+================================== Memory Usage (Bytes) ==================================
+GPU[0]		: VRAM Total Memory (B): 68702699520
+GPU[0]		: VRAM Total Used Memory (B): 49771044864
+GPU[1]		: VRAM Total Memory (B): 68702699520
+GPU[1]		: VRAM Total Used Memory (B): 48413872128
+GPU[2]		: VRAM Total Memory (B): 68702699520
+GPU[2]		: VRAM Total Used Memory (B): 51761160192
+GPU[3]		: VRAM Total Memory (B): 68702699520
+GPU[3]		: VRAM Total Used Memory (B): 50538610688
+==========================================================================================
+================================== End of ROCm SMI Log ===================================
+

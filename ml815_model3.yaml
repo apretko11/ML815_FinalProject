@@ -1,0 +1,50 @@
+### model
+model_name_or_path: Qwen/Qwen2.5-Coder-1.5B-Instruct
+push_to_hub_model_id: ml815-model3
+hub_strategy: every_save
+hf_hub_token: ""
+cache_dir: /vast/users/abdulrahman.mahmoud/Nadine_testing/LLaMA-Factory/
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+
+### dataset
+dataset:
+  - ml815
+dataset_dir: /vast/users/abdulrahman.mahmoud/Nadine_testing/LLaMA-Factory/data
+template: qwen
+cutoff_len: 20000
+overwrite_cache: false
+preprocessing_num_workers: 2
+streaming: false
+deepspeed: examples/deepspeed/ds_z2_config.json
+
+### output
+output_dir: saves/ml815-model3
+logging_steps: 10
+plot_loss: true
+save_strategy: "steps"
+save_steps: 100
+save_total_limit: 1
+save_only_model: true
+overwrite_output_dir: true
+push_to_hub: true
+hub_always_push: true
+report_to: wandb
+run_name: ml815-model3
+
+### train
+per_device_train_batch_size: 8
+gradient_accumulation_steps: 1
+learning_rate: 2.0e-5
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+ddp_timeout: 180000000
+flash_attn: fa2
+resume_from_checkpoint: false
+enable_liger_kernel: true
+
